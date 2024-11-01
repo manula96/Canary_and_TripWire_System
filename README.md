@@ -23,7 +23,7 @@ WatchTower
 │   └── maven-status
 ├── WatchTower.docx                           # Project documentation
 ├── WatchTower Framework 2_0.pdf              # Framework document detailing system architecture
-├── StchTower.docx                            # Additional documentation (possibly a typo, check spelling)
+├── WatchTower.docx                          
 └── pom.xml                                   # Maven build configuration file
 
 
